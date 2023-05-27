@@ -1,4 +1,4 @@
-package modulo1;
+package modulo2y3.TiposdeDatos;
 
 public class Operadores {
     public static void main(String[] args) {
