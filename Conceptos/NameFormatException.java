@@ -1,3 +1,4 @@
+package Conceptos;
 
 public class NameFormatException  extends Exception{
 

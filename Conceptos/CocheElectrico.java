@@ -1,4 +1,4 @@
-
+package Conceptos;
 public class CocheElectrico extends Coche {
 
     String motorElectrico;
